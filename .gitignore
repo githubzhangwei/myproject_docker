@@ -1,0 +1,7 @@
+*.log
+*.pid
+./compose/nginx/log
+./compose/nginx/ssl
+./compose/nginx/uwsgi
+
+./myproject/media
